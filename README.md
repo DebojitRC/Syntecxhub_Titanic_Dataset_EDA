@@ -2,7 +2,7 @@
 Data Science Week 3 Task 1\
 Author: Debojit Roy Chowdhury
 
-**Resources:**\
+**Resources:**
 * Dataset - https://www.kaggle.com/c/titanic
 * Pandas - https://pandas.pydata.org/docs/
 * Seaborn Visuals - https://seaborn.pydata.org/
